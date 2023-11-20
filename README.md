@@ -22,7 +22,7 @@ I'm on a journey to master NLP, Computer Vision, and AI tools. 🚀
 My future aspirations include working on real projects within robust market companies and/or engaging in research. I'm excited to think about the evolution and integration of Artificial Intelligence in many fields of life! 🌈
 
 ## 📫 Let's connect!
-- 💼 [LinkedIn:](https://www.linkedin.com/in/renato-vilella)
+- 💼 [LinkedIn](https://www.linkedin.com/in/renato-vilella)
 
 ## 🤝 Open Source Contributions
 
