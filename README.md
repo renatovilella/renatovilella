@@ -23,6 +23,7 @@ My future aspirations include working on real projects within robust market comp
 
 ## 📫 Let's connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/renato-vilella)
+- 💼 [Kaggle](https://www.kaggle.com/renatovilella)
 
 ## 🤝 Open Source Contributions
 
