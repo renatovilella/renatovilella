@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Renato Vilella, DHSc!
 
-Welcome to my GitHub corner! 🚀 I'm a passionate programmer and data scientist from Brazil 🌍, and I thrive on turning coffee into code. ☕️
+Welcome to my GitHub corner! 🚀 I have a Bachelor's in Physical Therapy, Doctorate in Health Sciences and I'm a passionate programmer and data scientist from Brazil 🌍, and I thrive on turning coffee into code. ☕️
 
 ## 🔧 Technologies & Tools
 
