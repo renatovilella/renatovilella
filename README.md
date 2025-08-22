@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Renato Vilella, DHSc!
+# 👋 Hello you! I'm Renato Vilella, DHSc!
 
 Welcome to my GitHub corner! 🚀 I am a Doctor in Health Sciences and I'm a passionate programmer and AI Engineer from Brazil 🌍, and I thrive on turning coffee into code. ☕️
 
