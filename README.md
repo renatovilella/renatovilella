@@ -25,9 +25,11 @@ My future aspirations include working on other real health projects that can tru
 ## 📫 Let's connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/renato-vilella)
 
-## 🤝 Open Source Contributions
+## 🤝 Some work delivery
 
-I'm passionate about giving back to the community. Check out my contributions [here](https://github.com/renatovilella).
+  - (ONLINE, OPERATIONAL, MONETIZING) SaaS for Profitable and Non Profitable Associations Management (with full integrated associates dashboard and identification): https://www.associaflow.predictorsolutions.com
+  - (ONLINE, OPERATIONAL, MONETIZING) Micro SaaS with full AI integration for entrepreneurs business management with over 37 fully trained and over 5 business areas: https://www.enai.predictorsolutions.com
+  - (ONLINE, OPERATIONAL, FREE FOR END USER _ for now) SaaS for Health with AI integration for prediction with full integration within garmin wearables and end-to-end user metrics: https://www.health.predictorsolutions.com 
 
 ## 🎉 Let's Collaborate!
 
